@@ -1,0 +1,20 @@
+repo_name: oeh77/the-art-of-command-line
+report_id: e1d7d4204861f0ad9084fdfae171abc5
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-28T02:42:33+00:00'
+requested_by: jlevy
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/oeh77/the-art-of-command-line
+  detection_source: Repo Metadata
